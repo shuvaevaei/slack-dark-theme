@@ -4210,4 +4210,4 @@ comments { box-shadow: inset 1px 0 0 rgba(0, 0, 0, 0.25); }
     border: none !important;
 }
 
-::placeholder { color: #e6e6e6 !important; filter: none; opacity: 0.5; }
+.ql-placeholder { color: #e6e6e6 !important; filter: none !important; opacity: 0.5; }
